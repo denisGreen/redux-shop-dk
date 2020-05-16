@@ -1,0 +1,10 @@
+.item-card {
+  display: flex;
+}
+.item-card .card-image {
+  max-width: 100%;
+}
+
+.item-card .bage-price {
+  font-size: 1.4em;
+}
